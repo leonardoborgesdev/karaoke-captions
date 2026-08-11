@@ -64,8 +64,7 @@ embutida no vídeo final, pixel a pixel.
    maioria dos casos — testar com `ffmpeg -filters | grep ass`).
 2. Instalar Python 3.10+ e `pip install faster-whisper`.
 3. Baixar e instalar a fonte Archivo Black (link acima).
-4. Copiar a função `build_ass()` de `pipeline_remoto.py` (projeto
-   `PROJETO_CANAL_REELS_GITHUB` no Downloads do Henrique).
+4. Copiar a função `build_ass()` de `pipeline_remoto.py` neste repositório.
 5. Fluxo mínimo pra testar isolado:
    ```python
    from faster_whisper import WhisperModel
