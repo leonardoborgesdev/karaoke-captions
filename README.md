@@ -40,4 +40,4 @@ build_ass(words, "captions.ass")
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+Todos os direitos reservados — uso e redistribuição não autorizados.
