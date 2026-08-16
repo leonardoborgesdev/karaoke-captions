@@ -1,5 +1,7 @@
 # Karaoke Captions for Reels
 
+[![License: MIT](https://img.shields.io/github/license/leonardoborgesdev/karaoke-captions)](LICENSE) [![Top language](https://img.shields.io/github/languages/top/leonardoborgesdev/karaoke-captions)](#)
+
 **Word-by-word highlighted captions, burned into vertical video with ffmpeg — no player subtitle track, no external renderer.**
 
 ## Why this exists
